@@ -1,0 +1,12 @@
+[package]
+name = "bnt"
+version = "0.1.0"
+authors = ["bytebuddha <shadowcynical@gmail.com>"]
+
+[dependencies]
+serde = "*"
+serde_derive = "*"
+serde_json = "*"
+hyper = "*"
+clap = "*"
+ansi_term = "*"
